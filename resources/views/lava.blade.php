@@ -8,7 +8,7 @@
     <meta name="description" content="Blast fast website blog with new laravel cms blog using lava web apps.">
     <meta name="author" content="https://lavapos.vercel.app/">
     <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
-    <title>New Laravel Blog CMS with LAVA web apps</title>
+    <title>Zuddin | Blog</title>
     <link rel="icon" href="https://mesinkasironline.web.app/img/createwebsitelaravel.png">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
